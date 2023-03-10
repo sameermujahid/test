@@ -1,4 +1,4 @@
 # test
-##editing the file
+## Editing the file
 
 a repository markdown file.
